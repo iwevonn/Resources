@@ -1,0 +1,5 @@
+Sublime Text是一款高效、跨平台、跨语言的多功能编辑器，但是由于官方没有中文语言包，使得该软件在国内还是很小众，本文将给出Sublime Text 的具体汉化方式。
+   以目前最新版Sublime Text 为例，安装好该软件后，下载汉化包，解压到系统盘中Sublime Text的"packages/Default"目录下，覆盖原始文件，无需重启，Sublime Text 2菜单栏就汉化完成了。
+
+author   :cowman
+blog      :http://cncowman.blogspot.com/
